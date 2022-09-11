@@ -1,0 +1,13 @@
+.childImage{
+    width: '5vw';
+    height: '10vh';
+    margin-top:'2vh';
+    border-radius: '1rem';   
+}
+
+
+@media only screen and (max-width: 650px) {
+    .childImage{
+        width: '2rem'
+    }
+  }
